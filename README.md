@@ -36,9 +36,9 @@ Running this docker by itself doesnt provide that mush interactivity though. The
 
    ```
    Host yourDockerName
-   HostName localhost
-   User code
-   Port 8022
+     HostName localhost
+     User code
+     Port 8022
    ```
 
 2. Download this [Remote SSH](https://code.visualstudio.com/docs/remote/ssh) vscode extension
